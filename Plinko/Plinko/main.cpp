@@ -1,2 +1,7 @@
 #include <iostream>
-// hey
+
+using namespace std;
+
+int main() {
+
+}
